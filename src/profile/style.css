@@ -1,0 +1,27 @@
+.container{
+    border: 2px solid white;
+    width: 30%;
+    border-radius: 10px;
+    margin-left: 500px ;
+    margin-top: 200px;
+    padding: 10px;
+    background-color: white;
+
+}
+.profile{
+    display: flex;
+    align-items: center;
+    border-top: 1px solid silver;
+}
+h3{
+    text-align: center;
+}
+span {
+    font-size: large;
+}
+.fullname, .job, .bio{
+	padding: 10px;
+}
+.fullname, .job {
+	border-bottom: 1px solid silver;
+}
